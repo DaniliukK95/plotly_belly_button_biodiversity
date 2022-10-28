@@ -1,0 +1,11 @@
+body {
+    color: #000000;
+    background-color: rgb(5, 205, 118);
+}
+
+.jumbotron {
+    background-image: url("../images/image.png");
+    background-size: 100% 100%;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
